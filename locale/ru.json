@@ -1,18 +1,18 @@
 {
     "standard": [
         {
-            "dot": "Dot",
-            "dot_with_version": "Dot {appVersion}",
-            "dot_full": "Dot Browser",
-            "dot_full_with_version": "Dot Browser {appVersion}",
-            "button_open": "Open",
-            "button_run": "Run",
-            "button_send": "Send",
-            "button_download": "Download",
-            "search_placeholder": "Search",
-            "quit": "Quit",
-            "quit_dot": "Quit Dot",
-            "quit_dot_with_version": "Quit Dot {appVersion}"
+            "dot": "Дот",
+            "dot_with_version": "Дот {appVersion}",
+            "dot_full": "Дот браузер",
+            "dot_full_with_version": Дот браузер {appVersion}",
+            "button_open": "Открыть",
+            "button_run": "Управлять",
+            "button_send": "Отправить",
+            "button_download": "Скачать",
+            "search_placeholder": "Поиск",
+            "quit": "Уволиться",
+            "quit_dot": "Уволиться Дот",
+            "quit_dot_with_version": "Уволиться Дот {appVersion}"
         }
     ],
     "languages": [
@@ -29,64 +29,63 @@
     ],
     "rich_presence": [
         {
-            "default_details": "Browsing on",
-            "audio_details": "Listening to audio on",
-            "file_details": "Viewing a {fileType} file",
-            "active_small_text": "Browsing a webpage",
-            "idle_small_text": "Idle",
-            "idle_details": "Dot Browser",
-            "large_text": "Dot Browser {version}"
+            "default_details": "Просматривая на",
+            "audio_details": "Слушать аудио на",
+            "file_details": "Просмотр файла {filetype}",
+            "active_small_text": "Просмотр веб-страницы",
+            "idle_small_text": "вхолостую",
+            "idle_details": "Дот браузер",
+            "large_text": "Дот браузер {version}"
         }
     ],
     "overlay": [
         {
-            "dial_top_sites": "Top Sites",
-            "dial_bookmarks": "Bookmarks",
-            "overview": "Overview",
-            "menu": "Menu",
-            "tab_groups": "Tab groups",
-            "default_tab_group": "New group",
-            "world": "World",
-            "history_bubble": "History",
-            "bookmarks_bubble": "Bookmarks",
-            "downloads_bubble": "Downloads",
-            "settings_bubble": "Settings",
-            "extensions_bubble": "Extensions",
-            "find_bubble": "Find",
-            "more_tools_bubble": "More tools",
-            "welcome_snackbar": "Welcome back, {username}"
-        }
+            "dial_top_sites": "Лучшие сайты",
+            "dial_bookmarks": "Закладки",
+            "overview": "Обзор",
+            "menu": "меню",
+            "tab_groups": "Группы вкладок",
+            "default_tab_group": "Новая группа",
+            "world": "Мир",
+            "history_bubble": "История",
+            "bookmarks_bubble": "Закладки",
+            "downloads_bubble": "Загрузок",
+            "settings_bubble": "Настройки",
+            "extensions_bubble": "Расширения",
+            "find_bubble": "Находить",
+            "more_tools_bubble": "Больше инструментов",
+            "welcome_snackbar": "С возвращением, {username}"
     ],
     "search_bar": [
         {
             "logged_in": [
                 {
-                    "message_1": "Where do you want to go today?",
-                    "message_2": "What's on your mind {username}?",
-                    "message_3": "Enter a search term or URL to get started.",
+                    "message_1": "Куда ты хочешь пойти сегодня?",
+                    "message_2": "О чем ты думаешь {username}?",
+                    "message_3": "Введите поисковый запрос или URL, чтобы начать.",
                     "message_4": "{currentTimeType}, {username}"
                 }
             ],
             "guest": [
                 {
-                    "message_1": "Where do you want to go today?",
-                    "message_2": "What's on your mind?",
-                    "message_3": "Enter a search term or URL to get started.",
+                    "message_1": "Куда ты хочешь пойти сегодня?",
+                    "message_2": "О чем ты думаешь?",
+                    "message_3": "Введите поисковый запрос или URL, чтобы начать.",
                     "message_4": "{currentTimeType}"
                 }
             ],
             "timeTypes": [
                 {
-                    "morning": "Good morning",
-                    "afternoon": "Good afternoon",
-                    "evening": "Good evening"
+                    "morning": "Доброе утро",
+                    "afternoon": "Добрый день",
+                    "evening": "Добрый вечер"
                 }
             ]
         }
     ],
     "settings": [
         {
-            "title": "Settings",
+            "title": "Настройки",
             "google_searchEngine": "Google",
             "bing_searchEngine": "Bing",
             "yahoo_searchEngine": "Yahoo",
@@ -94,10 +93,10 @@
             "ecosia_searchEngine": "Ecosia",
             "my_profile": [
                 {
-                    "title": "My Profile",
-                    "sign_in_btn": "Sign in",
-                    "sign_out_btn": "Sign out",
-                    "guest_user": "Guest"
+                    "title": "Мой профайл",
+                    "sign_in_btn": "Войти в систему",
+                    "sign_out_btn": "Выход",
+                    "guest_user": "Гость"
                 }
             ],
             "appearance": [
@@ -106,7 +105,7 @@
                     "toggle_dot": "Toggle Dot button",
                     "search_engine": "Search Engine",
                     "temp_type": "Temperature type",
-                    "guest_user": "Guest"
+                    "guest_user": "Гость"
                 }
             ],
             "downloads": [
